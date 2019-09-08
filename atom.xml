@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
     <title>Reed</title>
-    <updated>2019-09-08T13:01:19.671Z</updated>
+    <updated>2019-09-08T13:03:51.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://zsychn.github.io/post/2019-07-08-1809">
         </link>
         <updated>2019-07-08T10:09:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>又一次验证了，不是能不能的问题，是想不想的问题。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>又一次验证了，不是能不能的问题，是想不想的问题。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -25,7 +28,10 @@
         <link href="https://zsychn.github.io/post/2019-06-12-2343">
         </link>
         <updated>2019-06-12T15:43:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>做增收，优先考虑用附加资源做增量，优化策略带来的增收是在平时进行的。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>做增收，优先考虑用附加资源做增量，优化策略带来的增收是在平时进行的。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -34,7 +40,10 @@
         <link href="https://zsychn.github.io/post/2019gong-zuo-si-nian-chong-xin-kai-shi">
         </link>
         <updated>2019-05-23T12:41:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>#日常总结 #行业通用 #错别字 #恰到好处才是极致</p>
+]]></summary>
         <content type="html"><![CDATA[<p>#日常总结 #行业通用 #错别字 #恰到好处才是极致</p>
+<!-- more -->
 <hr>
 <p>在工作第四年，马上第五年的节骨眼上，我需要重新找工作了。</p>
 <p>加入两年的创业公司由于资金问题，撤离北京，远走西安，我只有三个选择：</p>
@@ -62,7 +71,10 @@
         <link href="https://zsychn.github.io/post/2019-05-22">
         </link>
         <updated>2019-05-22T12:37:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>焦虑是唯一真实的情感</p>
+]]></summary>
         <content type="html"><![CDATA[<p>焦虑是唯一真实的情感</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -71,7 +83,10 @@
         <link href="https://zsychn.github.io/post/2019-04-28-1949">
         </link>
         <updated>2019-04-28T11:49:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>恰到好处才是专业。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>恰到好处才是专业。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -80,7 +95,10 @@
         <link href="https://zsychn.github.io/post/2019-04016">
         </link>
         <updated>2019-04-16T12:35:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>我和谁都不争，和谁争我都不屑，我爱大自然，其次就是艺术，我双手烤着，生命之火取暖，火萎了，我也准备走了</p>
+]]></summary>
         <content type="html"><![CDATA[<p>我和谁都不争，和谁争我都不屑，我爱大自然，其次就是艺术，我双手烤着，生命之火取暖，火萎了，我也准备走了</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
