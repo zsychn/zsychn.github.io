@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
     <title>Reed</title>
-    <updated>2019-09-09T15:15:12.411Z</updated>
+    <updated>2019-10-07T10:52:49.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
@@ -11,37 +11,39 @@
     <icon>https://zsychn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Reed</rights>
     <entry>
+        <title type="html"><![CDATA[随感]]></title>
+        <id>https://zsychn.github.io/post/sui-gan</id>
+        <link href="https://zsychn.github.io/post/sui-gan">
+        </link>
+        <updated>2019-09-23T04:22:38.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="2019-07-08-1809">2019-07-08 18:09</h4>
+<p>又一次验证了，不是能不能的问题，是想不想的问题。</p>
+<h4 id="2019-06-12-2343">2019-06-12 23:43</h4>
+<p>做增收，优先考虑用附加资源做增量，优化策略带来的增收是在平时进行的。</p>
+<h4 id="2019-04-28-1949">2019-04-28 19:49</h4>
+<p>恰到好处才是专业。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文摘]]></title>
+        <id>https://zsychn.github.io/post/wen-zhai</id>
+        <link href="https://zsychn.github.io/post/wen-zhai">
+        </link>
+        <updated>2019-09-23T04:22:29.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="2019-05-22">2019-05-22</h4>
+<p>焦虑是唯一真实的情感</p>
+<h4 id="2019-04-16">2019-04-16</h4>
+<p>我和谁都不争，和谁争我都不屑，我爱大自然，其次就是艺术，我双手烤着，生命之火取暖，火萎了，我也准备走了</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我家猫咪]]></title>
         <id>https://zsychn.github.io/post/wo-jia-mao-mi</id>
         <link href="https://zsychn.github.io/post/wo-jia-mao-mi">
         </link>
         <updated>2019-09-09T15:08:26.000Z</updated>
         <content type="html"><![CDATA[<h3 id="2019年09月09日">2019年09月09日</h3>
-<p><img src="https://tva1.sinaimg.cn/large/007X8olVly1g6to8rq43cj31lb0u01ky.jpg" alt="menshen.jpg"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-07-08 18:09]]></title>
-        <id>https://zsychn.github.io/post/2019-07-08-1809</id>
-        <link href="https://zsychn.github.io/post/2019-07-08-1809">
-        </link>
-        <updated>2019-07-08T10:09:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>又一次验证了，不是能不能的问题，是想不想的问题。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>又一次验证了，不是能不能的问题，是想不想的问题。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-06-12 23:43]]></title>
-        <id>https://zsychn.github.io/post/2019-06-12-2343</id>
-        <link href="https://zsychn.github.io/post/2019-06-12-2343">
-        </link>
-        <updated>2019-06-12T15:43:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>做增收，优先考虑用附加资源做增量，优化策略带来的增收是在平时进行的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>做增收，优先考虑用附加资源做增量，优化策略带来的增收是在平时进行的。</p>
-<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://tva1.sinaimg.cn/large/007X8olVly1g6to8rq43cj31lb0u01ky.jpg" alt="menshen.jpg"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -73,42 +75,6 @@
 <hr>
 <p>在多面手和专家两个选项里，你会选择当哪一个。我最近一直在投产品经理的职位，但是我今天看到乐纯招CEO助理，我突然感觉自己也可以准备一下CEO助理的投递。多面手和专家现在来看，并没有谁好谁坏，还是看能不能做到恰到好处，不一定做到完美，恰到好处才是极致。</p>
 <p>一定要坚持下去，万事，只要在向往前走就是好事情。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-05-22]]></title>
-        <id>https://zsychn.github.io/post/2019-05-22</id>
-        <link href="https://zsychn.github.io/post/2019-05-22">
-        </link>
-        <updated>2019-05-22T12:37:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>焦虑是唯一真实的情感</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>焦虑是唯一真实的情感</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-04-28 19:49]]></title>
-        <id>https://zsychn.github.io/post/2019-04-28-1949</id>
-        <link href="https://zsychn.github.io/post/2019-04-28-1949">
-        </link>
-        <updated>2019-04-28T11:49:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>恰到好处才是专业。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>恰到好处才是专业。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-04-16]]></title>
-        <id>https://zsychn.github.io/post/2019-04016</id>
-        <link href="https://zsychn.github.io/post/2019-04016">
-        </link>
-        <updated>2019-04-16T12:35:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>我和谁都不争，和谁争我都不屑，我爱大自然，其次就是艺术，我双手烤着，生命之火取暖，火萎了，我也准备走了</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>我和谁都不争，和谁争我都不屑，我爱大自然，其次就是艺术，我双手烤着，生命之火取暖，火萎了，我也准备走了</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
