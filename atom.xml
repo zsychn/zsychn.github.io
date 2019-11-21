@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
     <title>Reed.z</title>
-    <updated>2019-11-21T07:19:58.994Z</updated>
+    <updated>2019-11-21T07:20:48.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://zsychn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Reed.z</rights>
     <entry>
-        <title type="html"><![CDATA[用户增长的两条基本逻辑]]></title>
+        <title type="html"><![CDATA[[讲座]用户增长的两条基本逻辑]]></title>
         <id>https://zsychn.github.io/post/yong-hu-zeng-chang-de-liang-tiao-ji-ben-luo-ji</id>
         <link href="https://zsychn.github.io/post/yong-hu-zeng-chang-de-liang-tiao-ji-ben-luo-ji">
         </link>
@@ -38,7 +38,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2019“银发”人群洞察]]></title>
+        <title type="html"><![CDATA[[行业报告]2019“银发”人群洞察]]></title>
         <id>https://zsychn.github.io/post/xing-ye-bao-gao-yue-du</id>
         <link href="https://zsychn.github.io/post/xing-ye-bao-gao-yue-du">
         </link>
