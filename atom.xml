@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
-    <title>Reed</title>
-    <updated>2019-10-07T13:06:37.765Z</updated>
+    <title>Reed.z</title>
+    <updated>2019-11-21T03:36:18.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://zsychn.github.io/images/avatar.png</logo>
     <icon>https://zsychn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Reed</rights>
+    <rights>All rights reserved 2019, Reed.z</rights>
     <entry>
         <title type="html"><![CDATA[随感]]></title>
         <id>https://zsychn.github.io/post/sui-gan</id>
