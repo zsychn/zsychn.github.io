@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
     <title>Reed.z</title>
-    <updated>2019-11-21T07:13:24.169Z</updated>
+    <updated>2019-11-21T07:15:43.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://zsychn.github.io/images/avatar.png</logo>
     <icon>https://zsychn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Reed.z</rights>
+    <entry>
+        <title type="html"><![CDATA[行业报告阅读]]></title>
+        <id>https://zsychn.github.io/post/xing-ye-bao-gao-yue-du</id>
+        <link href="https://zsychn.github.io/post/xing-ye-bao-gao-yue-du">
+        </link>
+        <updated>2019-11-21T07:14:33.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="报告前言">报告前言</h3>
+<ul>
+<li>定义：“银发人群”指的是，<strong>45岁</strong>以上使用<strong>移动智能手机</strong>设备的<strong>中老年人群</strong></li>
+<li>意义：银发人群是一个无法忽视的庞大群体，这部分群体 蕴含着无数商机，当前还是一个蓝海市场，值得重点关注和挖掘</li>
+</ul>
+<h3 id="报告目录">报告目录</h3>
+<ol>
+<li>“银发人群”发展现状</li>
+<li>“银发人群”用户画像</li>
+<li>“银发人群”各领域App洞察</li>
+<li>未来发展趋势-“银发经济”崛起</li>
+</ol>
+<h3 id="总结">总结</h3>
+<ol>
+<li>看用户规模，在2019年可以说已经到1亿的用户量级</li>
+<li>一线、<a href="%5Bhttps://baike.baidu.com/item/%E6%96%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%5D(https://baike.baidu.com/item/%E6%96%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82)">新一线</a>、二线占比55.9%；TGI指数分别在163、115、111</li>
+<li>银发人群日均使用时长超4小时</li>
+<li>主要使用 微信、应用宝、支付宝、百度、淘宝、高德地图、腾讯手机管家、360手机助手、360清理大师、WiFi管家</li>
+<li>男性占比稍高（53.9%），政府及事业单位人员较多</li>
+<li>前十地区：北京、天津、上海、黑龙江、吉林、辽宁、山东、山西、内蒙古、陕西</li>
+<li>前八偏好：理财、听新闻、旅游、纸牌、保险、家政、购物、脱口秀</li>
+<li>手机主要以：华为、小米为主；对手机的要求主要以：大屏幕、大内存为主</li>
+<li>截止2018年，60岁以上老人占比2.49亿，占总人口的17.9%</li>
+</ol>
+<h3 id="名词">名词</h3>
+<ul>
+<li>新一线：成都、杭州、重庆、武汉、西安、苏州、天津、南京、长沙、郑州、东莞、青岛、沈阳、宁波、昆明</li>
+</ul>
+<p><a href="http://117.128.6.35/cache/download.sdk.mob.com/1ed/b38/9c7ce71e55554c336289ca609f/4555.91.pdf?ich_args2=548-01001113021514_a3c3786d80f169539cade6248683b554_10001002_9c896225dfc6f8d89633518939a83798_a3c8379e8d58fc4ff9154d318d64c282"><strong>报告下载地址</strong></a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随感]]></title>
         <id>https://zsychn.github.io/post/sui-gan</id>
