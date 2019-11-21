@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsychn.github.io</id>
     <title>Reed.z</title>
-    <updated>2019-11-21T07:49:42.431Z</updated>
+    <updated>2019-11-21T07:51:27.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsychn.github.io"/>
     <link rel="self" href="https://zsychn.github.io/atom.xml"/>
@@ -10,6 +10,135 @@
     <logo>https://zsychn.github.io/images/avatar.png</logo>
     <icon>https://zsychn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Reed.z</rights>
+    <entry>
+        <title type="html"><![CDATA[《猫头鹰咖啡馆》]]></title>
+        <id>https://zsychn.github.io/post/lesslessmao-tou-ying-ka-pei-guan-greatergreater</id>
+        <link href="https://zsychn.github.io/post/lesslessmao-tou-ying-ka-pei-guan-greatergreater">
+        </link>
+        <updated>2019-11-21T07:49:53.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="咖啡的历史">咖啡的历史</h1>
+<blockquote>
+<p>“有关咖啡最早的记载，可追溯到公元900年，由一位叫作拉齐（Rhazes）的波斯（现在的伊朗）医师所撰写，在他的文献中记录了一种药品，将咖啡树的种子熬煮成汁，病人喝下后有改善胃部不适、提神利尿的显著效果，这种药品叫作“bunchum”，而它后来被视为咖啡的原型。</p>
+<p>从文献中可以得知，咖啡在当时还不能被称为饮品，而多是被当成药物来看待。当然，当时也没有咖啡豆烘焙之类的，更多的是连咖啡果实一起煮，最后获得咖啡汁。到后来，咖啡已不再是药品，而成为了人们生活中的一种饮品。差不多从13世纪中叶开始，到15、16世纪，咖啡慢慢从埃塞俄比亚传到阿拉伯地区，并成为一种商品。最早体验到咖啡豆烘焙工艺、闻到那无与伦比咖啡香的人，也正是那个时期的伊斯兰教徒。”</p>
+</blockquote>
+<p>摘录来自: 佐拉. “猫头鹰的咖啡馆。” Apple Books.</p>
+<h1 id="精制">精制</h1>
+<h2 id="1干燥式精制">1.干燥式精制</h2>
+<p>咖啡果，一边日光晒，一遍去皮，生熟均有，严格手工分级。</p>
+<h2 id="2-日晒式精制">2. 日晒式精制</h2>
+<p>可以制造出带有甜味的咖啡</p>
+<ol>
+<li>
+<p>去皮机去皮</p>
+</li>
+<li>
+<p>日光晒干</p>
+</li>
+</ol>
+<h2 id="3-水洗式精制">3. 水洗式精制</h2>
+<p><strong>最常用</strong>的精制方法，能够酿出纯净的咖啡香</p>
+<ol>
+<li>咖啡果浸泡入水，过滤杂质及未成熟果实</li>
+<li>去皮机去皮</li>
+<li>放入水槽等待发酵</li>
+<li>水洗后再放在日光下或干燥机中<strong>阴干</strong></li>
+</ol>
+<h2 id="4-半水洗式精制">4. 半水洗式精制</h2>
+<ol>
+<li>去皮机去皮</li>
+<li>进行干燥</li>
+</ol>
+<h1 id="分拣">分拣</h1>
+<p><strong>生豆</strong>：精制后的豆子</p>
+<p><strong>分级标准</strong>：大小、外形、相对密度</p>
+<h1 id="杯测">杯测</h1>
+<blockquote>
+<p>“1.香气(fragrance)：咖啡豆的香气。</p>
+<p>2.香味(aroma):冲泡后的咖啡气味。</p>
+<p>3.醇厚度（body）：咖啡液在口内的质感。</p>
+<p>4.风味（flavor）:咖啡进入口腔时的味道。</p>
+<p>5.酸度（acidity）：咖啡的酸味是否明亮、活泼、尖锐、沉闷。</p>
+<p>6.甜度（sweetness）：咖啡液在口腔内转动时留下的甜味强度。</p>
+<p>7.后味（aftertaste）：在口腔内品尝咖啡液并吐出后留下的风味和气味。”</p>
+</blockquote>
+<p>摘录来自: 佐拉. “猫头鹰的咖啡馆。” Apple Books.</p>
+<h1 id="烘焙">烘焙</h1>
+<p>8种烘焙等级</p>
+<h2 id="轻度烘焙light">轻度烘焙（light）</h2>
+<ul>
+<li>最轻的烘焙</li>
+<li>酸味较强</li>
+<li>香味较弱</li>
+<li>没有厚重感和苦味</li>
+<li>不适合研磨饮用，适合试饮</li>
+</ul>
+<h2 id="肉桂烘焙">肉桂烘焙</h2>
+<ul>
+<li>外观肉桂色</li>
+<li>酸味强烈</li>
+<li>香味尚可</li>
+<li>多为美式咖啡采用的烘焙程度</li>
+</ul>
+<h2 id="中度烘焙medium">中度烘焙（medium）</h2>
+<ul>
+<li>咖啡栗色</li>
+<li>口感香醇</li>
+<li>酸味可口</li>
+<li>适合单品或混合咖啡</li>
+</ul>
+<h2 id="高度烘焙high">高度烘焙（high）</h2>
+<ul>
+<li>深棕色</li>
+<li>酸味和苦味平衡恰到好处</li>
+</ul>
+<h2 id="城市烘焙city">城市烘焙（city）</h2>
+<ul>
+<li>微深度烘焙</li>
+<li>深褐色</li>
+<li>苦香味浓</li>
+<li>酸味几乎消失</li>
+<li>最受欢迎的烘焙程度</li>
+</ul>
+<h2 id="深城市烘焙fullcity">深城市烘焙（fullcity）</h2>
+<ul>
+<li>巧克力色</li>
+<li>无酸味</li>
+<li>以苦味为主</li>
+<li>适用于冰咖啡</li>
+</ul>
+<h2 id="法式烘焙french">法式烘焙（French）</h2>
+<ul>
+<li>颜色偏黑</li>
+<li>表面泛出油脂</li>
+<li>苦味较重</li>
+<li>独特香味</li>
+<li>多用于法式欧蕾维也纳咖啡</li>
+</ul>
+<h2 id="意式烘焙italian">意式烘焙（Italian）</h2>
+<ul>
+<li>最深的烘焙</li>
+<li>几乎呈黑色</li>
+<li>油脂较多</li>
+<li>苦味浓烈</li>
+<li>香气强烈</li>
+<li>多用于意式浓缩咖啡系列</li>
+</ul>
+<h1 id="冲煮">冲煮</h1>
+<p>……</p>
+<h1 id="家族">家族</h1>
+<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g8uf8qdm3oj30xc0rgafy.jpg" width=400px>
+<h2 id="阿拉比卡">阿拉比卡</h2>
+<blockquote>
+<p>“为什么把阿拉比卡豆比作贵族呢？因为这种豆都比较娇贵，跟贵族一样，家住在海拔600~2200米之间的高山上，对土壤和光照的要求极高，土壤不肥沃的地方，人家才不去，日照时间不够长，人家才不生长。另外，它们的生长周期也很慢，要将近5年才有收成，就像上了个本硕连读。再有它们抗病虫能力差，时时刻刻需要“管家”细致入微的照看，非常娇贵。”</p>
+<p>摘录来自: 佐拉. “猫头鹰的咖啡馆。” Apple Books.</p>
+</blockquote>
+<h2 id="卡内弗拉">卡内弗拉</h2>
+<blockquote>
+<p>“而卡内弗拉豆就相对平民多了，像是个打工仔。当阿拉比卡豆受到严重病害的时候，卡内弗拉还依然坚持在“工作”的最前线。它们家住在海拔800米以下，对病虫害抵御能力很强，对环境要求也不高，不需要那么多人的精心照顾。可就是“学历”不大好，下种后大概两年就能有收成了，像读了个大专中途还退学了”</p>
+<p>摘录来自: 佐拉. “猫头鹰的咖啡馆。” Apple Books.</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《小黑书》]]></title>
         <id>https://zsychn.github.io/post/lesslessxiao-hei-shu-greatergreater</id>
